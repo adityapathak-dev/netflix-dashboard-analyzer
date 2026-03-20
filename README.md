@@ -23,6 +23,11 @@ The goal was to extract meaningful insights using data analysis and visualizatio
 * 🌍 Content is heavily concentrated in a few countries
 
 ---
+## 🧠 Business Insight
+
+This analysis suggests that Netflix’s rapid expansion after 2015 aligns with its global content strategy, focusing heavily on movies and widely popular genres like Drama and Comedy to maximize audience reach.
+
+---
 
 ## 📸 Dashboard Preview
 
